@@ -18,3 +18,8 @@ git push
 # aclaracion
 **si nos equivocamos al poner el git remote usamos el comando**
 git remote set-url origin URL
+
+# URL de Matias Profe de UTN
+    https://github.com/Matu-Dev-JS/clases_pwi_tn_abril_UTN/tree/main
+
+    
