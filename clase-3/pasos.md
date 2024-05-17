@@ -9,3 +9,12 @@ git remote add origin y la url que sacamos de github
 git push -u origin main
 
 **podemos usar git status para obtener una informacionndetallada del estado de nuestro repo**
+
+**cuando queremos actualizar el repo debemos hacer esto**
+git add .
+git commit -m "algun comentario"
+git push
+
+# aclaracion
+**si nos equivocamos al poner el git remote usamos el comando**
+git remote set-url origin URL
