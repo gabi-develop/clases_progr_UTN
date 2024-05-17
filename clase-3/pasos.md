@@ -1,5 +1,4 @@
-si empezamos desde cero
-
+# si empezamos desde cero
 git init
 git add .
 git commit -m "algun comentario"
@@ -10,6 +9,7 @@ git push -u origin main
 
 **podemos usar git status para obtener una informacionndetallada del estado de nuestro repo**
 
+# si estoy actualizando
 **cuando queremos actualizar el repo debemos hacer esto**
 git add .
 git commit -m "algun comentario"
